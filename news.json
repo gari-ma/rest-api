@@ -4,7 +4,7 @@
   "articles": [
     {
       "title": "Scientists Discover Ancient Civilization Under the Antarctic Ice",
-      "image": "https://example.com/news/ancient_civilization.jpg",
+      "image": "https://t3.ftcdn.net/jpg/01/75/17/46/360_F_175174631_fZWpQKTkvuuXxZN6rz7x7mzjwCrhJq0o.jpg",
       "summary": "A team of researchers has uncovered the remains of an advanced ancient civilization buried deep under the Antarctic ice. The discovery could rewrite human history.",
       "author": "Sarah Adams",
       "source": "Archaeology Today",
@@ -14,7 +14,7 @@
     },
     {
       "title": "Massive Wildfire Threatens California's Iconic Redwood Forests",
-      "image": "https://example.com/news/wildfire_california.jpg",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/newscms/2018_43/2618606/bg-blk.jpg",
       "summary": "A raging wildfire continues to spread rapidly across California, putting the ancient and majestic Redwood forests at risk. Firefighters battle tirelessly to contain the inferno.",
       "author": "Michael Ramirez",
       "source": "Environmental News Network",
@@ -24,7 +24,7 @@
     },
     {
       "title": "Global Space Agency Plans to Establish a Colony on Mars by 2030",
-      "image": "https://example.com/news/mars_colony.jpg",
+      "image": "https://images.theconversation.com/files/531663/original/file-20230613-9276-i2rjyc.jpg",
       "summary": "In a bold step towards interplanetary exploration, the Global Space Agency announces plans to establish a human colony on Mars within the next decade.",
       "author": "David Chen",
       "source": "Space Exploration Gazette",
@@ -34,7 +34,7 @@
     },
     {
       "title": "New Vaccine Shows Promise in Combating Malaria in Sub-Saharan Africa",
-      "image": "https://example.com/news/malaria_vaccine.jpg",
+      "image": "https://www.mayoclinichealthsystem.org/-/media/national-files/images/hometown-health/2020/gloved-hands-filling-vaccine-syringe.jpg",
       "summary": "Health officials report a significant drop in malaria cases in Sub-Saharan Africa following the distribution of a newly developed vaccine. The breakthrough brings hope to millions.",
       "author": "Emily Wilson",
       "source": "Health and Wellness Times",
@@ -44,7 +44,7 @@
     },
     {
       "title": "Artificial Intelligence Achieves Superhuman Performance in Chess",
-      "image": "https://example.com/news/ai_chess.jpg",
+      "image": "https://images.theconversation.com/files/503372/original/file-20230106-23-9vo8lt.jpg",
       "summary": "A cutting-edge AI program has defeated the world chess champion, showcasing the remarkable capabilities of artificial intelligence in strategic decision-making.",
       "author": "Alex Carter",
       "source": "Tech Insights",
@@ -64,7 +64,7 @@
     },
     {
       "title": "Economic Growth Surges as Global Trade Tensions Ease",
-      "image": "https://example.com/news/economic_growth.jpg",
+      "image": "https://cdn.shopify.com/s/files/1/0266/5817/7121/files/iStock-1256653115.jpg?v=1651761816",
       "summary": "International trade tensions relax, leading to an unexpected surge in global economic growth. Analysts speculate on the potential for sustained prosperity.",
       "author": "Jonathan Lee",
       "source": "Financial Times",
@@ -74,33 +74,13 @@
     },
     {
       "title": "World's First Flying Car Takes Successful Test Flight",
-      "image": "https://example.com/news/flying_car.jpg",
+      "image": "https://image.cnbcfm.com/api/v1/image/106964911-1635070875003-Xpeng_Flying_Car_.png",
       "summary": "A groundbreaking flying car prototype completes its maiden test flight, bringing the dream of personal aerial transportation one step closer to reality.",
       "author": "Chris Anderson",
       "source": "Future Tech Review",
       "publishedAt": "2023-07-23T12:30:00Z",
       "category": "Transportation",
       "tags": ["Flying Car", "Transportation Innovation", "Personal Aircraft"]
-    },
-    {
-      "title": "New Hollywood Blockbuster Breaks Box Office Records",
-      "image": "https://example.com/news/blockbuster_movie.jpg",
-      "summary": "The latest Hollywood blockbuster smashes box office records, drawing massive crowds and earning critical acclaim from moviegoers and critics alike.",
-      "author": "Jennifer Parker",
-      "source": "Entertainment Weekly",
-      "publishedAt": "2023-07-22T18:00:00Z",
-      "category": "Entertainment",
-      "tags": ["Movies", "Box Office", "Hollywood"]
-    },
-    {
-      "title": "World's Largest Underwater Sculpture Park Opens in the Caribbean",
-      "image": "https://example.com/news/underwater_sculpture.jpg",
-      "summary": "Divers and art enthusiasts flock to the Caribbean to witness the grand opening of the world's largest underwater sculpture park, an awe-inspiring fusion of art and marine life.",
-      "author": "Robert Johnson",
-      "source": "Traveler's Delight",
-      "publishedAt": "2023-07-21T10:45:00Z",
-      "category": "Travel",
-      "tags": ["Underwater Sculpture Park", "Caribbean", "Marine Art"]
     }
   ]
 }
